@@ -1,7 +1,7 @@
-## boas vindas ao meu perfil 👋
+## boas vindas ao meu perfil ✨🫀
 
-me chamo geovanna
+eu me chamo geovanna
 
-- sou estudante do alura
-- utilizo esse espaço para me organizar e para compartilhar meus trabalhos
+ sou estudante do alura
+ utilizo esse espaço para me organizar e para compartilhar meus trabalhos
 - ![](https://media.tenor.com/vIM-SxPXzdsAAAAi/koala-hi.gif)
