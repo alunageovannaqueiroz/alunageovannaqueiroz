@@ -1,6 +1,6 @@
 ## boas vindas ao meu perfil ✨🫀
 
-eu me chamo geovanna
+      eu me chamo geovanna
 
 - sou estudante do alura
 - utilizo esse espaço para me organizar e para compartilhar meus trabalhos
